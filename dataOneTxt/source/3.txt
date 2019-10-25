@@ -1,0 +1,6 @@
+Ссылка PR	ТС	JiraKey	Тип Согласования	Тип Коммита	Approved\NeedWork	Исполнитель	Дата	Кол-во коммитов
+https://bitbucket.ru/stash/projects/UFSFW/repos/soft-scheduler/pull-requests/782/overview	Расписание	CUFS4-932	Не требуется	Bug	Approved	Иванов А.Ф.	30.09.2019	19.5
+https://bitbucket.ru/stash/projects/FW/repos/soft-scheduler/pull-requests/783/overview	Расписание	CUFS5-927	Не требуется	Bug	Approved	Петров А.С.	01.10.2019	19.5
+https://bitbucket.ru/stash/projects/FW/repos/ufs-monitoring/pull-requests/15082/overview	Splunk	SPLNK-2038	Не требуется	Bug	Approved	Петров А.С.	01.10.2019	19.5
+https://bitbucket.ru/stash/projects/FW/repos/splunk-monitoring/pull-requests/15083/overview	Splunk	SPLNK1-1884	Не требуется	Bug	Approved	Петров А.С.	01.10.2019	19.5
+https://bitbucket.ru/stash/projects/FW/repos/splunk-monitoring/pull-requests/15085/overview	Splunk	SPLNK-2045	Не требуется	Bug	Approved	Петров А.С.	02.10.2019	19.5
