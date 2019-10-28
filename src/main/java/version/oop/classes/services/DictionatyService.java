@@ -14,21 +14,16 @@ import java.util.*;
 
 public class DictionatyService extends Service {
 
-    private String dictionaryFile;
-
     public DictionatyService(List<String> filePaths, Repository repository) {
         super(filePaths, repository);
-
-        if (filePaths != null)
-            dictionaryFile = filePaths.get(0);
     }
 
     @Override
     public List<Data> LoadData() throws IOException {
-        if (repository == null || dictionaryFile == null) return null;
-
+        if (repository == null || filePaths == null || filePaths.size() == 0) return null;
         List<Data> dataList = new ArrayList<>();
 
+        String dictionaryFile = filePaths.get(0);
         List<String> files = new ArrayList<>();
         files.add(dictionaryFile);
 
